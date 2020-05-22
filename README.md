@@ -4,10 +4,12 @@ The TGIF-QA dataset contains 165K QA pairs for the animated GIFs from the [TGIF 
 
 
 
-In this 'ijcv' branch, you can find the [code](code/README.md) and the [dataset](dataset/README.md) for our **IJCV** journal.
+In this page, you can find the [code](code/README.md) and the [dataset](dataset/README.md) for our **IJCV** journal.
 
 * Yunseok Jang, Yale Song, Chris Dongjoo Kim, Youngjae Yu, Youngjin Kim and Gunhee Kim. *Video Question Answering with Spatio-Temporal Reasoning*. *IJCV*, 2019. [[Journal Link]](https://link.springer.com/article/10.1007/s11263-019-01189-x)
 
+
+Please check [this tag](https://github.com/YunseokJANG/tgif-qa/tree/cvpr2017) if you are interested in our CVPR 2017 setting.
 
 
 The code and the dataset are free to use for academic purposes only. If you use any of the material in this repository as part of your work, we ask you to cite:
@@ -21,7 +23,7 @@ The code and the dataset are free to use for academic purposes only. If you use 
 }
 ```
 
-Note: Since our CVPR 2017 paper, we extended our dataset by collecting more question and answer pairs (the total count has increased from 104K to 165K) and re-ran experiments with the new dataset. The journal and the arXiv paper is the most update one. 
+Note: Since our CVPR 2017 paper, we extended our dataset by collecting more question and answer pairs (the total count has increased from 104K to 165K) and re-ran experiments with the new dataset. The journal and the arXiv paper is the most update one.
 
 
 Have any question? Please contact:
